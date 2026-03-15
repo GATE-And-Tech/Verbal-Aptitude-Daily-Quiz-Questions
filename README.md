@@ -46,3 +46,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🌟 Support
 
 If you find this repository helpful, please give it a star! ⭐
+
+## 📞 Connect With Us
+
+- **Telegram Group**: [Join our Telegram Group](https://t.me/gateandtechcse)
+- **Telegram Channel**: [Subscribe to our Telegram Channel](https://t.me/gateandtech)
+- **GATE And Tech LinkedIn**: [LinkedIn Company Page](https://www.linkedin.com/company/gate-and-tech)
+- **Lakshman Patel LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lakshman-patel)
+- **YouTube**: [Subscribe to our YouTube Channel](https://www.youtube.com/@gateandtechofficial)
+- **X (Twitter)**: [Follow us on X](https://x.com/GATEAndTech)
