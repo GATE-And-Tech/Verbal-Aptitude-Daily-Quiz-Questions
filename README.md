@@ -8,7 +8,9 @@ This repository provides a daily selection of quiz questions delving into variou
 
 ## 📚 About
 
-This repository is part of the GATE And Tech initiative to help students prepare for competitive exams like GATE, PGEE, and other technical examinations. Verbal Aptitude is a crucial section in many competitive exams, and this repository provides daily practice questions to master it.
+This repository is part of the [GATE And Tech initiative](https://gateandtech.in/) to help students prepare for competitive exams like GATE, PGEE, and other technical examinations. Verbal Aptitude is a crucial section in many competitive exams, and this repository provides daily practice questions to master it.
+
+**Topics:** Reading Comprehension, Vocabulary, Grammar, Sentence Completion, Critical Reasoning, Analogy
 
 ## 🎯 Resources
 
